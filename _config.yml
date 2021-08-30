@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "WISDOM_KIM 개발노트"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Wisdom_Kim95"
 description              : "An amazing website."
 url                      : "https://WisdomKim95.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
